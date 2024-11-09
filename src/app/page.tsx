@@ -5,8 +5,6 @@ function page() {
   return (
     <div className='min-h-screen  bg-gray-50 flex items-center justify-center p-4'>
     <div className="w-full max-w-6xl bg-white">
-   
-      {/* Header */}
       <div className="w-full bg-[#A8996E] p-3">
         <h1 className="text-white text-2xl font-serif tracking-wider">MANZZARI</h1>
       </div>
@@ -19,8 +17,6 @@ function page() {
         <h2 className="text-3xl font-bold tracking-wider">CRAFTSMANSHIP AND</h2>
         <h2 className="text-3xl font-bold tracking-wider">FINESSE</h2>
       </div>
-
-    {/*<div className=" flex flex- col justify-center items-start m-12">*/}
    <p className=" mt-6  leading-relaxed max-w-md text-Color">
         An example of intricate workmanship and detail, elegant 
         necklaces and long and short chains form a part of our 
