@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 function page() {
   return (
-    <div className='min-h-screen  bg-gray-50 flex items-center justify-center p-4'>
+    <div className="min-h-screen  bg-gray-50 flex items-center justify-center p-4">
     <div className="w-full max-w-6xl bg-white">
       <div className="w-full bg-[#A8996E] p-3">
         <h1 className="text-white text-2xl font-serif tracking-wider">MANZZARI</h1>
